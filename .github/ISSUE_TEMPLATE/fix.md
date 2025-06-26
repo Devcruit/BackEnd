@@ -1,5 +1,5 @@
 ---
-name: 오류 수정
+name: Fix
 about: 오류 설명 및 수정
 title: "[fix]"
 labels: fix

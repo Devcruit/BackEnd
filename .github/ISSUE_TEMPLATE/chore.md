@@ -1,5 +1,5 @@
 ---
-name: 환경 설정
+name: Chore
 about: 개발 환경 세팅
 title: "[chore]"
 labels: chore

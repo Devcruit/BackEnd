@@ -1,5 +1,5 @@
 ---
-name: 리팩토링
+name: Refactoring
 about: 리팩토링 및 디렉토리 수정
 title: "[refactoring]"
 labels: refactoring
